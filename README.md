@@ -1,7 +1,6 @@
-## My Project
+## Open Source LLMs Optimization with Amazon SageMaker
 
-TODO: Fill this README out!
-How to Speed Up Open Source LLMs Training and Cut Down Billing Time with Amazon SageMaker
+In this project, we'll explain how to use Amazon SageMaker to optimize the training and inference of open source large language models (LLMs).
 
 Be sure to:
 
